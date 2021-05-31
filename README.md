@@ -1,2 +1,5 @@
 # React-App
-Run npm start 
+
+Install npm modules and run
+
+npm start 
